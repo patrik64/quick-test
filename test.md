@@ -1,6 +1,6 @@
 test.md
 
-![tiger](![tiger](./images/tiger.jpg)
+![tiger](./images/tiger.jpg)
 
 ## Mapping between two things
 
